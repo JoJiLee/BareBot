@@ -18,11 +18,11 @@
     "enmap": "^5.8.5",
     "express": "^4.17.1",
     "request": "^2.88.2",
-    "node": "^16.3.0",
-    "pnpm": "^6.9.0",
+    "node": "^16.4.0",
+    "pnpm": "^6.9.1",
     "mathjs": "^9.4.2",
     "discord-paginationembed": "^1.0.3",
-    "discord.js-pagination": "^1.0.1",
+    "discord.js-pagination": "^1.0.3",
     "setimmediate": "^1.0.5"
   }
 }
